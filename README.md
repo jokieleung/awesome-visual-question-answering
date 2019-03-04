@@ -29,6 +29,7 @@ Markdown format:
         * [AAAI 2018](#aaai-2018)
         * [IJCAI 2018](#ijcai-2018)
         * [CVPR 2018](#cvpr-2018)
+        * [ACM MM 2018](#acm-mm-2018)
         * [ECCV 2018](#eccv-2018)
         * [OTHER](#other)
      * [2017-2015](#2017-2015)
@@ -100,6 +101,11 @@ Relationship Detection - Hedi Ben-younes et al, **AAAI 2019**. [code]
 * [IVQA: Inverse Visual Question Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Liu_IVQA_Inverse_Visual_CVPR_2018_paper.html) - Feng Liu et al, **CVPR 2018**. [code]
 * [Customized Image Narrative Generation via Interactive Visual Question Generation and Answering](http://openaccess.thecvf.com/content_cvpr_2018/html/Shin_Customized_Image_Narrative_CVPR_2018_paper.html) - Andrew Shin et al, **CVPR 2018**. [code]
 
+#### ACM MM 2018 ####
+* [Object-Difference Attention: A simple relational attention for Visual Question Answering](https://dl.acm.org/citation.cfm?doid=3240508.3240513) - 	Chenfei Wu et al, **ACM MM 2018**. [code]
+* [Enhancing Visual Question Answering Using Dropout](https://doi.org/10.1145/3240508.3240662) - 	Zhiwei Fang et al, **ACM MM 2018**. [code]
+* [Fast Parameter Adaptation for Few-shot Image Captioning and Visual Question Answering](https://doi.org/10.1145/3240508.3240527) - Xuanyi Dong et al, **ACM MM 2018**. [[code]](https://github.com/D-X-Y/FPAIT)
+* [Explore Multi-Step Reasoning in Video Question Answering](https://doi.org/10.1145/3240508.3240563) - Xiaomeng Song et al, **ACM MM 2018**. [[code]](https://github.com/SVQA-founder/SVQA/tree/master/code) [[SVQA dataset]](https://svqa-founder.github.io/SVQA/)
 
 #### ECCV 2018 ####
 * [Visual Question Answering as a Meta Learning Task](http://openaccess.thecvf.com/content_ECCV_2018/html/Damien_Teney_Visual_Question_Answering_ECCV_2018_paper.html) - 	Damien Teney et al, **ECCV 2018**. [code]
@@ -119,6 +125,7 @@ Relationship Detection - Hedi Ben-younes et al, **AAAI 2019**. [code]
 * [R-VQA: Learning Visual Relation Facts with Semantic Attention for Visual Question Answering](https://dl.acm.org/citation.cfm?doid=3219819.3220036) - 	Pan Lu et al, **SIGKDD 2018**. [[code(Dataset)]](https://github.com/lupantech/rvqa)
 * [Interpretable Counting for Visual Question Answering](https://arxiv.org/abs/1712.08697) - Alexander Trott et al, **ICLR 2018**. [code]
 * [Learning to Count Objects in Natural Images for Visual Question Answering](https://openreview.net/forum?id=B12Js_yRb) - Yan Zhang et al, **ICLR 2018**. [code]
+* [A Better Way to Attend: Attention With Trees for Video Question Answering](https://ieeexplore.ieee.org/document/8419716) - Hongyang Xue et al, **TIP 2018**. [[code]](https://github.com/xuehy/TreeAttention)
 * [Zero-Shot Transfer VQA Dataset](https://arxiv.org/abs/1811.00692) - 	Pan Lu et al, **arxiv preprint**. [code]
 
 ### 2017-2015
