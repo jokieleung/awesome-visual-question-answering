@@ -15,7 +15,7 @@ Markdown format:
 
 ## Change Log
 
-- Mar.3rd,2019 The Fist version released.
+- Mar.3rd,2019 The First version released.
 
 ## Table of Contents
   * [Contributing](#contributing)
@@ -47,6 +47,9 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2019
+* [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/abs/1902.09487) - Remi Cadene et al, **CVPR 2019**. [[code]](https://github.com/Cadene/murel.bootstrap.pytorch)
+* [Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774) - Dalu Guo et al, **CVPR 2019**. [code]
+* [RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741) - Chi Zhang et al, **CVPR 2019**. [[project page]](http://wellyzhang.github.io/project/raven.html)
 * [Combining Multiple Cues for Visual Madlibs Question Answering](https://arxiv.org/abs/1611.00393) - Tatiana Tommasi et al, **IJCV 2019**. [code]
 * Differential Networks for Visual Question Answering - Chenfei Wu et al, **AAAI 2019**. [code]
 * BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual
