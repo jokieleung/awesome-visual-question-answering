@@ -24,6 +24,9 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2019](#2019)
+        * [CVPR 2019](#cvpr-2019)
+        * [AAAI 2019](#aaai-2019)
+        * [OTHER](#other)
      * [2018](#2018)
         * [NIPS 2018](#nips-2018)
         * [AAAI 2018](#aaai-2018)
@@ -47,17 +50,29 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2019
+#### CVPR 2019 ####
+* [Information Maximizing Visual Question Generation](https://arxiv.org/abs/1903.11207) - Ranjay Krishna et al, **CVPR 2019**. [code]
+* [Learning to Compose Dynamic Tree Structures for Visual Contexts](https://arxiv.org/abs/1812.01880) - Kaihua Tang et al, **CVPR 2019**. [code]
+* [Transfer Learning via Unsupervised Task Discovery for Visual Question Answering](https://arxiv.org/abs/1810.02358) - Hyeonwoo Noh et al, **CVPR 2019**. [code]
+* [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547) - Yao-Hung Hubert Tsai et al, **CVPR 2019**. [[code]](https://github.com/yaohungt/Gated-Spatio-Temporal-Energy-Graph)
+* [Explainable and Explicit Visual Reasoning over Scene Graphs](https://arxiv.org/abs/1812.01855) - Jiaxin Shi et al, **CVPR 2019**. [[code]](https://github.com/shijx12/XNM-Net)
 * [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/abs/1902.09487) - Remi Cadene et al, **CVPR 2019**. [[code]](https://github.com/Cadene/murel.bootstrap.pytorch)
 * [Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774) - Dalu Guo et al, **CVPR 2019**. [code]
 * [RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741) - Chi Zhang et al, **CVPR 2019**. [[project page]](http://wellyzhang.github.io/project/raven.html)
-* [Combining Multiple Cues for Visual Madlibs Question Answering](https://arxiv.org/abs/1611.00393) - Tatiana Tommasi et al, **IJCV 2019**. [code]
-* Differential Networks for Visual Question Answering - Chenfei Wu et al, **AAAI 2019**. [code]
-* BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual
-Relationship Detection - Hedi Ben-younes et al, **AAAI 2019**. [code]
-* Dynamic Capsule Attention for Visual Question Answering - Yiyi Zhou et al, **AAAI 2019**. [code]
+
+#### AAAI 2019 ####
+* [Differential Networks for Visual Question Answering](https://www.aaai.org/Papers/AAAI/2019/AAAI-WuC.76.pdf) - Chenfei Wu et al, **AAAI 2019**. [code]
+* [BLOCK: Bilinear Superdiagonal Fusion for Visual Question Answering and Visual Relationship Detection](https://arxiv.org/abs/1902.00038) - Hedi Ben-younes et al, **AAAI 2019**. [[code]](https://github.com/Cadene/block.bootstrap.pytorch)
+* [Dynamic Capsule Attention for Visual Question Answering](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi2.3610.pdf) - Yiyi Zhou et al, **AAAI 2019**. [[code]](https://github.com/XMUVQA/CapsAtt)
 * Structured Two-stream Attention Network for Video Question Answering - Lianli Gao et al, **AAAI 2019**. [code]
-* Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering - Xiangpeng Li et al, **AAAI 2019**. [code]
-*  WK-VQA: World Knowledge-enabled Visual Question Answering - Sanket Shah et al, **AAAI 2019**. [code]
+* [Beyond RNNs: Positional Self-Attention with Co-Attention for Video Question Answering](https://www.semanticscholar.org/paper/Beyond-RNNs%3A-Positional-Self-Attention-with-for-Li-Song/565359aac8914505e6b02db05822ee63d3ffd03a) - Xiangpeng Li et al, **AAAI 2019**. [[code]](https://github.com/lixiangpengcs/PSAC)
+*  WK-VQA: World Knowledge-enabled Visual Question Answering - Sanket Shah et al, **AAAI 2019**. [[code]](https://github.com/sanket0211/WK-VQA)
+*  [Free VQA Models from Knowledge Inertia by Pairwise Inconformity Learning](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi1.1233.pdf) - Yiyi Zhou et al, **AAAI 2019**. [[code]](https://github.com/xiangmingLi/PIL)
+
+#### OTHER ####
+* [Combining Multiple Cues for Visual Madlibs Question Answering](https://arxiv.org/abs/1611.00393) - Tatiana Tommasi et al, **IJCV 2019**. [code]
+* [Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation](https://arxiv.org/abs/1902.08355) - Sang-Woo Lee et al, **ICLR 2019**. [[code]](https://github.com/naver/aqm-plus)
+
 
 ### 2018
 #### NIPS 2018 ####
