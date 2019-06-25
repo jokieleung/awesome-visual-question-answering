@@ -52,6 +52,7 @@ Markdown format:
 ### 2019
 #### CVPR 2019 ####
 * [Information Maximizing Visual Question Generation](https://arxiv.org/abs/1903.11207) - Ranjay Krishna et al, **CVPR 2019**. [code]
+* [Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) - Amir Zadeh et al, **CVPR 2019**. [code]
 * [Learning to Compose Dynamic Tree Structures for Visual Contexts](https://arxiv.org/abs/1812.01880) - Kaihua Tang et al, **CVPR 2019**. [code]
 * [Transfer Learning via Unsupervised Task Discovery for Visual Question Answering](https://arxiv.org/abs/1810.02358) - Hyeonwoo Noh et al, **CVPR 2019**. [code]
 * [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547) - Yao-Hung Hubert Tsai et al, **CVPR 2019**. [[code]](https://github.com/yaohungt/Gated-Spatio-Temporal-Energy-Graph)
@@ -70,6 +71,7 @@ Markdown format:
 *  [Free VQA Models from Knowledge Inertia by Pairwise Inconformity Learning](https://www.aaai.org/Papers/AAAI/2019/AAAI-ZhouYiyi1.1233.pdf) - Yiyi Zhou et al, **AAAI 2019**. [[code]](https://github.com/xiangmingLi/PIL)
 
 #### OTHER ####
+* [Focal Visual-Text Attention for Memex Question Answering](https://ieeexplore.ieee.org/abstract/document/8603827/) - Junwei Liang et al, **TPAMI 2019**. [[code]](https://memexqa.cs.cmu.edu/)
 * [Combining Multiple Cues for Visual Madlibs Question Answering](https://arxiv.org/abs/1611.00393) - Tatiana Tommasi et al, **IJCV 2019**. [code]
 * [Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation](https://arxiv.org/abs/1902.08355) - Sang-Woo Lee et al, **ICLR 2019**. [[code]](https://github.com/naver/aqm-plus)
 
