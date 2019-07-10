@@ -51,6 +51,8 @@ Markdown format:
 
 ### 2019
 #### CVPR 2019 ####
+* [Deep Modular Co-Attention Networks for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf) - Zhou Yu et al, **CVPR 2019**. [code](https://github.com/MILVLG/mcan-vqa)
+
 * [Information Maximizing Visual Question Generation](https://arxiv.org/abs/1903.11207) - Ranjay Krishna et al, **CVPR 2019**. [code]
 * [Learning to Compose Dynamic Tree Structures for Visual Contexts](https://arxiv.org/abs/1812.01880) - Kaihua Tang et al, **CVPR 2019**. [code]
 * [Transfer Learning via Unsupervised Task Discovery for Visual Question Answering](https://arxiv.org/abs/1810.02358) - Hyeonwoo Noh et al, **CVPR 2019**. [code]
