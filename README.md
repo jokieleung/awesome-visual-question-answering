@@ -9,6 +9,7 @@ A curated list of **Visual Question Answering(VQA)**(Image/Video Question Answer
 ## Contributing
 Please feel free to send me [pull requests](https://github.com/jokieleung/awesome-visual-question-answering/pulls) or email (leungjokie@gmail.com) to add links.
 Markdown format:
+
 ```markdown
 - [Paper Name](link) - Author 1 et al, **Conference Year**. [[code]](link)
 ```
@@ -24,6 +25,9 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2019](#2019)
+        * [ACL 2019](#ACL-2019)
+        * [ICCV 2019](#ICCV-2019)
+        * [NeurIPS 2019](#NeurIPS-2019)
         * [CVPR 2019](#cvpr-2019)
         * [AAAI 2019](#aaai-2019)
         * [OTHER](#other)
@@ -50,8 +54,28 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2019
+
+#### ACL 2019
+
+* [Generating Question Relevant Captions to Aid Visual Question Answering]( https://www.aclweb.org/anthology/P19-1348.pdf ) - Jialin Wu et al, **ACL 2019**. 
+* [Psycholinguistics Meets Continual Learning: Measuring Catastrophic Forgetting in Visual Question Answering](https://www.aclweb.org/anthology/P19-1350.pdf) - Claudio Greco et al, **ACL 2019**. [[code]]( https://www.aclweb.org/anthology/P19-1350/ )
+* [Multi-grained Attention with Object-level Grounding for Visual Question Answering](https://www.aclweb.org/anthology/P19-1349.pdf) - Pingping Huang et al, **ACL 2019**. 
+* [Improving Visual Question Answering by Referring to Generated Paragraph Captions]( https://www.aclweb.org/anthology/P19-1351.pdf ) -  Hyounghun Kim et al, **ACL 2019**. 
+
+#### ICCV 2019
+
+*  [Compact Trilinear Interaction for Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2019/html/Do_Compact_Trilinear_Interaction_for_Visual_Question_Answering_ICCV_2019_paper.html) - Tuong Do Kim et al, **ICCV 2019**. 
+*  [Scene Text Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2019/html/Biten_Scene_Text_Visual_Question_Answering_ICCV_2019_paper.html)  - Ali Furkan Biten et al, **ICCV 2019**. 
+* [Multi-Modality Latent Interaction Network for Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2019/html/Gao_Multi-Modality_Latent_Interaction_Network_for_Visual_Question_Answering_ICCV_2019_paper.html)  - Peng Gao et al, **ICCV 2019**. 
+* [Relation-Aware Graph Attention Network for Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Relation-Aware_Graph_Attention_Network_for_Visual_Question_Answering_ICCV_2019_paper.html)  - Linjie Li et al, **ICCV 2019**. 
+
+#### NeurIPS 2019
+
+* [RUBi: Reducing Unimodal Biases for Visual Question Answering](https://papers.nips.cc/paper/8371-rubi-reducing-unimodal-biases-for-visual-question-answering) - Remi Cadene et al, **NeurIPS 2019**. 
+* [Self-Critical Reasoning for Robust Visual Question Answering](https://papers.nips.cc/paper/9066-self-critical-reasoning-for-robust-visual-question-answering) - Jialin Wu et al, **NeurIPS 2019**. 
+
 #### CVPR 2019 ####
-* [Deep Modular Co-Attention Networks for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf) - Zhou Yu et al, **CVPR 2019**. [code](https://github.com/MILVLG/mcan-vqa)
+* [Deep Modular Co-Attention Networks for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf) - Zhou Yu et al, **CVPR 2019**. [[code]](https://github.com/MILVLG/mcan-vqa)
 
 * [Information Maximizing Visual Question Generation](https://arxiv.org/abs/1903.11207) - Ranjay Krishna et al, **CVPR 2019**. [code]
 * [Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) - Amir Zadeh et al, **CVPR 2019**. [code]
@@ -171,6 +195,10 @@ I will collect the leaderboard's implementations in the future.Stay tuned...
 * [VQA Challenge 2018 Leaderboard in EvalAI](https://evalai.cloudcv.org/featured-challenges/80/leaderboard/124)
 ### test-std 2017
 * [VQA Challenge 2017(Open-Ended) Leaderboard in EvalAI](https://evalai.cloudcv.org/featured-challenges/1/leaderboard/3)
+
+### [TextVQA]( https://textvqa.org/ )
+
+* [TextVQA Challenge 2019 Leaderboard in EvalAI]( https://evalai.cloudcv.org/web/challenges/challenge-page/244/overview )
 
 ## Licenses
 
