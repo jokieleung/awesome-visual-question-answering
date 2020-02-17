@@ -173,6 +173,8 @@ Markdown format:
 * [Learning to Count Objects in Natural Images for Visual Question Answering](https://openreview.net/forum?id=B12Js_yRb) - Yan Zhang et al, **ICLR 2018**. [code]
 * [A Better Way to Attend: Attention With Trees for Video Question Answering](https://ieeexplore.ieee.org/document/8419716) - Hongyang Xue et al, **TIP 2018**. [[code]](https://github.com/xuehy/TreeAttention)
 * [Zero-Shot Transfer VQA Dataset](https://arxiv.org/abs/1811.00692) - 	Pan Lu et al, **arxiv preprint**. [code]
+* [Visual Question Answering using Explicit Visual Attention](https://ieeexplore.ieee.org/abstract/document/8351158/) - Vasileios Lioutas et al, **ISCAS 2018**. [code]
+* [Explicit ensemble attention learning for improving visual question answering](https://www.sciencedirect.com/science/article/abs/pii/S0167865518301600) - Vasileios Lioutas et al, **Pattern Recognition Letters 2018**. [code]
 
 ### 2017-2015
 #### OTHER ####
