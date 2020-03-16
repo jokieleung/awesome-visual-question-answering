@@ -24,6 +24,9 @@ Markdown format:
   * [Table of Contents](#table-of-contents)
   * [Papers](#papers)
      * [Survey](#survey)
+     * [2020](#2020)
+        - [WACV 2020](#WACV-2020)
+        - [AAAI 2020](#AAAI-2020)
      * [2019](#2019)
         * [ACL 2019](#ACL-2019)
         * [ICCV 2019](#ICCV-2019)
@@ -53,6 +56,29 @@ Markdown format:
 * [Visual question answering: Datasets, algorithms, and future challenges](https://arxiv.org/abs/1610.01465) - Kushal Kafle et al, **CVIU 2017**.
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
+### 2020
+
+#### WACV 2020
+
+- [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.pdf) - Zekun Yang et al, **WACV 2020**. 
+- [Deep Bayesian Network for Visual Question Generation](http://openaccess.thecvf.com/content_WACV_2020/html/Patro_Deep_Bayesian_Network_for_Visual_Question_Generation_WACV_2020_paper.html) - Badri Patro et al, **WACV 2020**. 
+- [Robust Explanations for Visual Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Patro_Robust_Explanations_for_Visual_Question_Answering_WACV_2020_paper.html) - Badri Patro et al, **WACV 2020**. 
+- [Visual Question Answering on 360deg Images](http://openaccess.thecvf.com/content_WACV_2020/html/Chou_Visual_Question_Answering_on_360deg_Images_WACV_2020_paper.html) - Shih-Han Chou et al, **WACV 2020**. 
+- [LEAF-QA: Locate, Encode & Attend for Figure Question Answering](http://openaccess.thecvf.com/content_WACV_2020/html/Chaudhry_LEAF-QA_Locate_Encode__Attend_for_Figure_Question_Answering_WACV_2020_paper.html) - Ritwick Chaudhry et al, **WACV 2020**. 
+- [Answering Questions about Data Visualizations using Efficient Bimodal Fusion](http://openaccess.thecvf.com/content_WACV_2020/html/Kafle_Answering_Questions_about_Data_Visualizations_using_Efficient_Bimodal_Fusion_WACV_2020_paper.html) - Kushal Kafle et al, **WACV 2020**. 
+
+#### AAAI 2020
+
+- [Multi‐Question Learning for Visual Question Answering]() - Chenyi Lei et al, **AAAI 2020**. 
+- [Explanation vs Attention: A Two-Player Game to Obtain Attention for VQA]() - Badri N. Patro et al, **AAAI 2020**. 
+- [Overcoming Language Priors in VQA via Decomposed Linguistic Representations]() - Chenchen Jing et al, **AAAI 2020**. 
+- [Unified Vision-Language Pre-Training for Image Captioning and VQA]() - Luowei Zhou et al, **AAAI 2020**. 
+- [Re‐Attention for Visual Question Answering]() - Wenya Guo et al, **AAAI 2020**. 
+- [Divide and Conquer: Question­‐Guided Spatio­‐Temporal Contextual Attention for Video Question Answering]() - Jianwen  Jiang et al, **AAAI 2020**. 
+- [Reasoning with Heterogeneous Graph Alignment for Video Question Answering]() - Jianwen  Jiang et al, **AAAI 2020**. 
+- [Location­‐aware Graph Convolutional Networks for Video Question Answering]() - Deng  Huang et al, **AAAI 2020**. 
+- [KnowIT VQA: Answering Knowledge­‐Based Questions about Videos]() - Noa  Garcia et al, **AAAI 2020**. 
+
 ### 2019
 
 #### ACL 2019
@@ -68,6 +94,7 @@ Markdown format:
 *  [Scene Text Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2019/html/Biten_Scene_Text_Visual_Question_Answering_ICCV_2019_paper.html)  - Ali Furkan Biten et al, **ICCV 2019**. 
 * [Multi-Modality Latent Interaction Network for Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2019/html/Gao_Multi-Modality_Latent_Interaction_Network_for_Visual_Question_Answering_ICCV_2019_paper.html)  - Peng Gao et al, **ICCV 2019**. 
 * [Relation-Aware Graph Attention Network for Visual Question Answering](http://openaccess.thecvf.com/content_ICCV_2019/html/Li_Relation-Aware_Graph_Attention_Network_for_Visual_Question_Answering_ICCV_2019_paper.html)  - Linjie Li et al, **ICCV 2019**. 
+* [Why Does a Visual Question Have Different Answers?](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bhattacharya_Why_Does_a_Visual_Question_Have_Different_Answers_ICCV_2019_paper.pdf)  - Nilavra Bhattacharya et al, **ICCV 2019**. 
 
 #### NeurIPS 2019
 
