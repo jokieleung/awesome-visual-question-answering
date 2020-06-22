@@ -25,6 +25,8 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2020](#2020)
+        - [CVPR 2020](#CVPR-2020)
+        - [ACL 2020](#ACL-2020)
         - [WACV 2020](#WACV-2020)
         - [AAAI 2020](#AAAI-2020)
      * [2019](#2019)
@@ -58,6 +60,29 @@ Markdown format:
 
 ### 2020
 
+#### CVPR 2020
+
+- [On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_On_the_General_Value_of_Evidence_and_Bilingual_Scene-Text_Visual_CVPR_2020_paper.html) - Xinyu Wang et al, **CVPR 2020**. 
+- [In Defense of Grid Features for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_In_Defense_of_Grid_Features_for_Visual_Question_Answering_CVPR_2020_paper.html) - Huaizu Jiang et al, **CVPR 2020**. 
+- [Counterfactual Samples Synthesizing for Robust Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.html) - Long Chen et al, **CVPR 2020**. 
+- [Counterfactual Vision and Language Learning](http://openaccess.thecvf.com/content_CVPR_2020/html/Abbasnejad_Counterfactual_Vision_and_Language_Learning_CVPR_2020_paper.html) - Ehsan Abbasnejad et al, **CVPR 2020**. 
+- [Iterative Answer Prediction With Pointer-Augmented Multimodal Transformers for TextVQA](http://openaccess.thecvf.com/content_CVPR_2020/html/Hu_Iterative_Answer_Prediction_With_Pointer-Augmented_Multimodal_Transformers_for_TextVQA_CVPR_2020_paper.html) - Ronghang Hu et al, **CVPR 2020**. 
+- [Towards Causal VQA: Revealing and Reducing Spurious Correlations by Invariant and Covariant Semantic Editing](http://openaccess.thecvf.com/content_CVPR_2020/html/Agarwal_Towards_Causal_VQA_Revealing_and_Reducing_Spurious_Correlations_by_Invariant_CVPR_2020_paper.html) - Vedika Agarwal et al, **CVPR 2020**. 
+- [SQuINTing at VQA Models: Introspecting VQA Models With Sub-Questions](http://openaccess.thecvf.com/content_CVPR_2020/html/Selvaraju_SQuINTing_at_VQA_Models_Introspecting_VQA_Models_With_Sub-Questions_CVPR_2020_paper.html) - Ramprasaath R. Selvaraju et al, **CVPR 2020**. 
+- [TA-Student VQA: Multi-Agents Training by Self-Questioning](http://openaccess.thecvf.com/content_CVPR_2020/html/Xiong_TA-Student_VQA_Multi-Agents_Training_by_Self-Questioning_CVPR_2020_paper.html) - Peixi Xiong et al, **CVPR 2020**. 
+- [VQA With No Questions-Answers Training](http://openaccess.thecvf.com/content_CVPR_2020/html/Vatashsky_VQA_With_No_Questions-Answers_Training_CVPR_2020_paper.html) - Ben-Zion Vatashsky et al, **CVPR 2020**. 
+- [Hierarchical Conditional Relation Networks for Video Question Answering](http://openaccess.thecvf.com/content_CVPR_2020/html/Le_Hierarchical_Conditional_Relation_Networks_for_Video_Question_Answering_CVPR_2020_paper.html) - Thao Minh Le et al, **CVPR 2020**. 
+- [Modality Shifting Attention Network for Multi-Modal Video Question Answering](http://openaccess.thecvf.com/content_CVPR_2020/html/Kim_Modality_Shifting_Attention_Network_for_Multi-Modal_Video_Question_Answering_CVPR_2020_paper.html) - Junyeong Kim et al, **CVPR 2020**. 
+- [Webly Supervised Knowledge Embedding Model for Visual Reasoning](http://openaccess.thecvf.com/content_CVPR_2020/html/Zheng_Webly_Supervised_Knowledge_Embedding_Model_for_Visual_Reasoning_CVPR_2020_paper.html) - Wenbo Zheng et al, **CVPR 2020**. 
+- [Differentiable Adaptive Computation Time for Visual Reasoning](http://openaccess.thecvf.com/content_CVPR_2020/html/Eyzaguirre_Differentiable_Adaptive_Computation_Time_for_Visual_Reasoning_CVPR_2020_paper.html) - Cristobal Eyzaguirre et al, **CVPR 2020**. 
+
+#### ACL 2020
+
+- [A negative case analysis of visual grounding methods for VQA](https://arxiv.org/abs/2004.05704) - Robik Shrestha et al, **ACL 2020**. 
+- [Cross-Modality Relevance for Reasoning on Language and Vision](https://arxiv.org/abs/2005.06035) - Chen Zheng et al, **ACL 2020**. 
+- [Dense-Caption Matching and Frame-Selection Gating for Temporal Localization in VideoQA](https://arxiv.org/abs/2005.06409) - Hyounghun Kim et al, **ACL 2020**. 
+- [TVQA+: Spatio-Temporal Grounding for Video Question Answering](https://arxiv.org/abs/1904.11574) - Jie Lei et al, **ACL 2020**. 
+
 #### WACV 2020
 
 - [BERT representations for Video Question Answering](http://openaccess.thecvf.com/content_WACV_2020/papers/Yang_BERT_representations_for_Video_Question_Answering_WACV_2020_paper.pdf) - Zekun Yang et al, **WACV 2020**. 
@@ -74,8 +99,8 @@ Markdown format:
 - [Overcoming Language Priors in VQA via Decomposed Linguistic Representations]() - Chenchen Jing et al, **AAAI 2020**. 
 - [Unified Vision-Language Pre-Training for Image Captioning and VQA]() - Luowei Zhou et al, **AAAI 2020**. 
 - [Re‐Attention for Visual Question Answering]() - Wenya Guo et al, **AAAI 2020**. 
-- [Divide and Conquer: Question­‐Guided Spatio­‐Temporal Contextual Attention for Video Question Answering]() - Jianwen  Jiang et al, **AAAI 2020**. 
-- [Reasoning with Heterogeneous Graph Alignment for Video Question Answering]() - Jianwen  Jiang et al, **AAAI 2020**. 
+- [Divide and Conquer: Question­‐Guided Spatio­‐Temporal Contextual Attention for Video Question Answering]() - Jianwen Jiang et al, **AAAI 2020**. 
+- [Reasoning with Heterogeneous Graph Alignment for Video Question Answering]() - Pin Jiang et al, **AAAI 2020**. 
 - [Location­‐aware Graph Convolutional Networks for Video Question Answering]() - Deng  Huang et al, **AAAI 2020**. 
 - [KnowIT VQA: Answering Knowledge­‐Based Questions about Videos]() - Noa  Garcia et al, **AAAI 2020**. 
 
@@ -103,7 +128,6 @@ Markdown format:
 
 #### CVPR 2019 ####
 * [Deep Modular Co-Attention Networks for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf) - Zhou Yu et al, **CVPR 2019**. [[code]](https://github.com/MILVLG/mcan-vqa)
-
 * [Information Maximizing Visual Question Generation](https://arxiv.org/abs/1903.11207) - Ranjay Krishna et al, **CVPR 2019**. [code]
 * [Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) - Amir Zadeh et al, **CVPR 2019**. [code]
 * [Learning to Compose Dynamic Tree Structures for Visual Contexts](https://arxiv.org/abs/1812.01880) - Kaihua Tang et al, **CVPR 2019**. [code]
@@ -113,6 +137,14 @@ Markdown format:
 * [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/abs/1902.09487) - Remi Cadene et al, **CVPR 2019**. [[code]](https://github.com/Cadene/murel.bootstrap.pytorch)
 * [Image-Question-Answer Synergistic Network for Visual Dialog](https://arxiv.org/abs/1902.09774) - Dalu Guo et al, **CVPR 2019**. [code]
 * [RAVEN: A Dataset for Relational and Analogical Visual rEasoNing](https://arxiv.org/abs/1903.02741) - Chi Zhang et al, **CVPR 2019**. [[project page]](http://wellyzhang.github.io/project/raven.html)
+* [Cycle-Consistency for Robust Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/html/Shah_Cycle-Consistency_for_Robust_Visual_Question_Answering_CVPR_2019_paper.html) - Meet Shah et al, **CVPR 2019**.
+* [It's Not About the Journey; It's About the Destination: Following Soft Paths Under Question-Guidance for Visual Reasoning](http://openaccess.thecvf.com/content_CVPR_2019/html/Haurilet_Its_Not_About_the_Journey_Its_About_the_Destination_Following_CVPR_2019_paper.html) - Monica Haurilet et al, **CVPR 2019**.
+* [OK-VQA: A Visual Question Answering Benchmark Requiring External Knowledge](http://openaccess.thecvf.com/content_CVPR_2019/html/Marino_OK-VQA_A_Visual_Question_Answering_Benchmark_Requiring_External_Knowledge_CVPR_2019_paper.html) - Kenneth Marino et al, **CVPR 2019**.
+* [Visual Question Answering as Reading Comprehension](http://openaccess.thecvf.com/content_CVPR_2019/html/Li_Visual_Question_Answering_as_Reading_Comprehension_CVPR_2019_paper.html) - Hui Li et al, **CVPR 2019**.
+* [Dynamic Fusion With Intra- and Inter-Modality Attention Flow for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/html/Gao_Dynamic_Fusion_With_Intra-_and_Inter-Modality_Attention_Flow_for_Visual_CVPR_2019_paper.html) - Peng Gao et al, **CVPR 2019**.
+* [Explicit Bias Discovery in Visual Question Answering Models](http://openaccess.thecvf.com/content_CVPR_2019/html/Manjunatha_Explicit_Bias_Discovery_in_Visual_Question_Answering_Models_CVPR_2019_paper.html) - Varun Manjunatha et al, **CVPR 2019**.
+* [Answer Them All! Toward Universal Visual Question Answering Models](http://openaccess.thecvf.com/content_CVPR_2019/html/Shrestha_Answer_Them_All_Toward_Universal_Visual_Question_Answering_Models_CVPR_2019_paper.html) - Robik Shrestha et al, **CVPR 2019**.
+* [Visual Query Answering by Entity-Attribute Graph Matching and Reasoning](http://openaccess.thecvf.com/content_CVPR_2019/html/Xiong_Visual_Query_Answering_by_Entity-Attribute_Graph_Matching_and_Reasoning_CVPR_2019_paper.html) - Peixi Xiong et al, **CVPR 2019**.
 
 #### AAAI 2019 ####
 * [Differential Networks for Visual Question Answering](https://www.aaai.org/Papers/AAAI/2019/AAAI-WuC.76.pdf) - Chenfei Wu et al, **AAAI 2019**. [code]
@@ -125,6 +157,7 @@ Markdown format:
 
 #### OTHER ####
 * [Focal Visual-Text Attention for Memex Question Answering](https://ieeexplore.ieee.org/abstract/document/8603827/) - Junwei Liang et al, **TPAMI 2019**. [[code]](https://memexqa.cs.cmu.edu/)
+* Plenty is Plague: Fine-Grained Learning for Visual Question Answering - Yiyi Zhou et al, **TPAMI 2019**.
 * [Combining Multiple Cues for Visual Madlibs Question Answering](https://arxiv.org/abs/1611.00393) - Tatiana Tommasi et al, **IJCV 2019**. [code]
 * [Large-Scale Answerer in Questioner's Mind for Visual Dialog Question Generation](https://arxiv.org/abs/1902.08355) - Sang-Woo Lee et al, **ICLR 2019**. [[code]](https://github.com/naver/aqm-plus)
 
@@ -200,6 +233,8 @@ Markdown format:
 * [Learning to Count Objects in Natural Images for Visual Question Answering](https://openreview.net/forum?id=B12Js_yRb) - Yan Zhang et al, **ICLR 2018**. [code]
 * [A Better Way to Attend: Attention With Trees for Video Question Answering](https://ieeexplore.ieee.org/document/8419716) - Hongyang Xue et al, **TIP 2018**. [[code]](https://github.com/xuehy/TreeAttention)
 * [Zero-Shot Transfer VQA Dataset](https://arxiv.org/abs/1811.00692) - 	Pan Lu et al, **arxiv preprint**. [code]
+* [Visual Question Answering using Explicit Visual Attention](https://ieeexplore.ieee.org/abstract/document/8351158/) - Vasileios Lioutas et al, ***\*ISCAS 2018\****. [code]
+* [Explicit ensemble attention learning for improving visual question answering](https://www.sciencedirect.com/science/article/abs/pii/S0167865518301600) - Vasileios Lioutas et al, ***\*Pattern Recognition Letters 2018\****. [code]
 
 ### 2017-2015
 #### OTHER ####
