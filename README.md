@@ -25,6 +25,7 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2020](#2020)
+        - [ECCV 2020](#ECCV-2020)
         - [CVPR 2020](#CVPR-2020)
         - [ACL 2020](#ACL-2020)
         - [WACV 2020](#WACV-2020)
@@ -60,8 +61,19 @@ Markdown format:
 
 ### 2020
 
+#### ECCV 2020
+
+- [Reducing Language Biases in Visual Question Answering with Visually-Grounded Question Encoder](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/1765_ECCV_2020_paper.php) - Gouthaman KV et al, **ECCV 2020**. 
+- [Knowledge-Based Video Question Answering with Unsupervised Scene Descriptions](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3056_ECCV_2020_paper.php) - Noa Garcia et al, **ECCV 2020**. 
+- [Semantic Equivalent Adversarial Data Augmentation for Visual Question Answering](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3245_ECCV_2020_paper.php) - Ruixue Tang et al, **ECCV 2020**. 
+- [Visual Question Answering on Image Sets](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3640_ECCV_2020_paper.php) - Ankan Bansal et al, **ECCV 2020**. 
+- [VQA-LOL: Visual Question Answering under the Lens of Logic](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3742_ECCV_2020_paper.php) - Tejas Gokhale et al, **ECCV 2020**. 
+- [TRRNet: Tiered Relation Reasoning for Compositional Visual Question Answering](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/3752_ECCV_2020_paper.php) - Xiaofeng Yang et al, **ECCV 2020**. 
+- [Spatially Aware Multimodal Transformers for TextVQA](http://www.ecva.net/papers/eccv_2020/papers_ECCV/html/946_ECCV_2020_paper.php) - Yash Kant et al, **ECCV 2020**. 
+
 #### CVPR 2020
 
+- [Multi-Modal Graph Neural Network for Joint Reasoning on Vision and Scene Text]( http://arxiv.org/abs/2003.13962) - Difei Gao et al, **CVPR 2020**. [[code]]( https://github.com/ricolike/mmgnn_textvqa)
 - [On the General Value of Evidence, and Bilingual Scene-Text Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2020/html/Wang_On_the_General_Value_of_Evidence_and_Bilingual_Scene-Text_Visual_CVPR_2020_paper.html) - Xinyu Wang et al, **CVPR 2020**. 
 - [In Defense of Grid Features for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2020/html/Jiang_In_Defense_of_Grid_Features_for_Visual_Question_Answering_CVPR_2020_paper.html) - Huaizu Jiang et al, **CVPR 2020**. 
 - [Counterfactual Samples Synthesizing for Robust Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2020/html/Chen_Counterfactual_Samples_Synthesizing_for_Robust_Visual_Question_Answering_CVPR_2020_paper.html) - Long Chen et al, **CVPR 2020**. 
