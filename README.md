@@ -25,6 +25,8 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2020](#2020)
+        - [EMNLP 2020](#EMNLP-2020)
+        - [NeurIPS 2020](#NeurIPS-2020)
         - [ECCV 2020](#ECCV-2020)
         - [CVPR 2020](#CVPR-2020)
         - [ACL 2020](#ACL-2020)
@@ -60,6 +62,18 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2020
+
+#### EMNLP 2020
+
+- [MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.63/) - Tejas Gokhale et al, **EMNLP 2020**. 
+- [Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.265/) - Zujie Liang et al, **EMNLP 2020**. 
+- [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://www.aclweb.org/anthology/2020.emnlp-main.269/) - Yue Wang et al, **EMNLP 2020**. 
+
+#### NeurIPS 2020
+
+- [Multimodal Graph Networks for Compositional Generalization in Visual Question Answering](https://papers.nips.cc/paper/2020/hash/1fd6c4e41e2c6a6b092eb13ee72bce95-Abstract.html) - Raeid Saqur et al, **NeurIPS 2020**. 
+- [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://papers.nips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html) - Itai Gat et al, **NeurIPS 2020**. 
+- [Dialog without Dialog Data: Learning Visual Dialog Agents from VQA Data](https://papers.nips.cc/paper/2020/hash/e7023ba77a45f7e84c5ee8a28dd63585-Abstract.html) - Michael Cogswell et al, **NeurIPS 2020**. 
 
 #### ECCV 2020
 
