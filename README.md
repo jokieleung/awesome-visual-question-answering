@@ -74,6 +74,7 @@ Markdown format:
 - [Multimodal Graph Networks for Compositional Generalization in Visual Question Answering](https://papers.nips.cc/paper/2020/hash/1fd6c4e41e2c6a6b092eb13ee72bce95-Abstract.html) - Raeid Saqur et al, **NeurIPS 2020**. 
 - [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://papers.nips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html) - Itai Gat et al, **NeurIPS 2020**. 
 - [Dialog without Dialog Data: Learning Visual Dialog Agents from VQA Data](https://papers.nips.cc/paper/2020/hash/e7023ba77a45f7e84c5ee8a28dd63585-Abstract.html) - Michael Cogswell et al, **NeurIPS 2020**. 
+- [On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law](https://papers.nips.cc/paper/2020/hash/045117b0e0a11a242b9765e79cbf113f-Abstract.html) - Damien Teney et al, **NeurIPS 2020**
 
 #### ECCV 2020
 
