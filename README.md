@@ -283,7 +283,7 @@ Markdown format:
 
 ### 2017-2015
 #### OTHER ####
- Please check the other papers list from VQA area between 2017-2015 in [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) from [JamesChuanggg](https://github.com/JamesChuanggg),it seems that he hasn't maintained that project for a long time.Really appreciate for his work.I will merge his work to this list in the future.Stay tuned...
+ Please check the other papers list from VQA area between 2017-2015 in [awesome-vqa](https://github.com/JamesChuanggg/awesome-vqa) from [JamesChuanggg](https://github.com/JamesChuanggg), it seems that he hasn't maintained that project for a long time. Really appreciate for his work. I will merge his work to this list in the future.Stay tuned...
 
 #### ICCV 2017 ####
 * [Learning to Reason: End-to-End Module Networks for Visual Question Answering](https://ieeexplore.ieee.org/document/8237355) - Ronghang Hu et al, **ICCV 2017**. [code]
@@ -317,4 +317,4 @@ To the extent possible under law, [Jokie Leung](https://github.com/jokieleung) h
 * [**awesome-image-captioning**](https://github.com/zhjohnchan/awesome-image-captioning) from [Zhihong Chen](https://github.com/zhjohnchan)
 * [**awesome-vqa**](https://github.com/JamesChuanggg/awesome-vqa) from [JamesChuanggg](https://github.com/JamesChuanggg)
 
-Really appreciate for there contributions in this area.
+Really appreciate for their contributions in this area.
