@@ -24,6 +24,9 @@ Markdown format:
   * [Table of Contents](#table-of-contents)
   * [Papers](#papers)
      * [Survey](#survey)
+     * [2021](#2021)
+        - [NAACL-HLT 2021](#NAACL-HLT-2021)
+        - [AAAI 2021](#AAAI-2021)
      * [2020](#2020)
         - [EMNLP 2020](#EMNLP-2020)
         - [NeurIPS 2020](#NeurIPS-2020)
@@ -61,6 +64,21 @@ Markdown format:
 * [Visual question answering: Datasets, algorithms, and future challenges](https://arxiv.org/abs/1610.01465) - Kushal Kafle et al, **CVIU 2017**.
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
+### 2021
+
+#### NAACL-HLT 2021
+
+- [CLEVR_HYP: A Dataset and Baselines for Visual Question Answering with Hypothetical Actions over Images](https://arxiv.org/abs/2104.05981) - Shailaja Keyur Sampat et al, **NAACL-HLT 2021**. [[code]](https://github.com/shailaja183/clevr_hyp)
+- [Video Question Answering with Phrases via Semantic Roles](https://arxiv.org/abs/2104.03762) - Arka Sadhu et al, **NAACL-HLT 2021**.
+- [Ensemble of MRR and NDCG models for Visual Dialog](https://arxiv.org/abs/2104.07511) - Idan Schwartz, **NAACL-HLT 2021**.
+
+#### AAAI 2021
+
+- [Regularizing Attention Networks for Anomaly Detection in Visual Question Answering](https://arxiv.org/abs/2009.10054) - Doyup Lee et al, **AAAI 2021**. 
+- [A Case Study of the Shortcut Effects in Visual Commonsense Reasoning](https://www.aaai.org/AAAI21Papers/AAAI-9821.YeK.pdf) - Keren Ye et al, **AAAI 2021**. [[code]](https://github.com/yekeren/VCR-shortcut-effects-study)
+
+
+
 ### 2020
 
 #### EMNLP 2020
@@ -74,6 +92,7 @@ Markdown format:
 - [Multimodal Graph Networks for Compositional Generalization in Visual Question Answering](https://papers.nips.cc/paper/2020/hash/1fd6c4e41e2c6a6b092eb13ee72bce95-Abstract.html) - Raeid Saqur et al, **NeurIPS 2020**. 
 - [Removing Bias in Multi-modal Classifiers: Regularization by Maximizing Functional Entropies](https://papers.nips.cc/paper/2020/hash/20d749bc05f47d2bd3026ce457dcfd8e-Abstract.html) - Itai Gat et al, **NeurIPS 2020**. 
 - [Dialog without Dialog Data: Learning Visual Dialog Agents from VQA Data](https://papers.nips.cc/paper/2020/hash/e7023ba77a45f7e84c5ee8a28dd63585-Abstract.html) - Michael Cogswell et al, **NeurIPS 2020**. 
+- [On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law](https://arxiv.org/abs/2005.09241) - Damien Teney et al, **NeurIPS 2020**.
 
 #### ECCV 2020
 
