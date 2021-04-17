@@ -70,7 +70,7 @@ Markdown format:
 
 - [CLEVR_HYP: A Dataset and Baselines for Visual Question Answering with Hypothetical Actions over Images](https://arxiv.org/abs/2104.05981) - Shailaja Keyur Sampat et al, **NAACL-HLT 2021**. [[code]](https://github.com/shailaja183/clevr_hyp)
 - [Video Question Answering with Phrases via Semantic Roles](https://arxiv.org/abs/2104.03762) - Arka Sadhu et al, **NAACL-HLT 2021**.
-- [Ensemble of MRR and NDCG models for Visual Dialog](https://arxiv.org/abs/2104.07511) - Idan Schwartz, **NAACL-HLT 2021**.
+- [Ensemble of MRR and NDCG models for Visual Dialog](https://arxiv.org/abs/2104.07511) - Idan Schwartz, **NAACL-HLT 2021**. [[code]](https://github.com/idansc/mrr-ndcg)
 
 #### AAAI 2021
 
