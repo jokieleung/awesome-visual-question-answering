@@ -78,6 +78,7 @@ Markdown format:
 
 - [Regularizing Attention Networks for Anomaly Detection in Visual Question Answering](https://arxiv.org/abs/2009.10054) - Doyup Lee et al, **AAAI 2021**. 
 - [A Case Study of the Shortcut Effects in Visual Commonsense Reasoning](https://www.aaai.org/AAAI21Papers/AAAI-9821.YeK.pdf) - Keren Ye et al, **AAAI 2021**. [[code]](https://github.com/yekeren/VCR-shortcut-effects-study)
+- [VisualMRC: Machine Reading Comprehension on Document Images](https://arxiv.org/abs/2101.11272) - Ryota Tanaka et al, **AAAI 2021**. [[page]](https://github.com/nttmdlab-nlp/VisualMRC)
 
 
 
