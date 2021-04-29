@@ -25,6 +25,7 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2021](#2021)
+        - [ICLR 2021](#ICLR-2021)
         - [NAACL-HLT 2021](#NAACL-HLT-2021)
         - [AAAI 2021](#AAAI-2021)
      * [2020](#2020)
@@ -65,6 +66,10 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2021
+
+#### ICLR 2021
+
+- [MultiModalQA: complex question answering over text, tables and images](https://openreview.net/pdf?id=ee6W5UgQLa) - Alon Talmor et al, **ICLR 2021**. [[page]](https://allenai.github.io/multimodalqa/)
 
 #### NAACL-HLT 2021
 
