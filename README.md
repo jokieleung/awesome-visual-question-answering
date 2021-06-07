@@ -181,10 +181,10 @@ Markdown format:
 
 #### CVPR 2019 ####
 * [Deep Modular Co-Attention Networks for Visual Question Answering](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Deep_Modular_Co-Attention_Networks_for_Visual_Question_Answering_CVPR_2019_paper.pdf) - Zhou Yu et al, **CVPR 2019**. [[code]](https://github.com/MILVLG/mcan-vqa)
-* [Information Maximizing Visual Question Generation](https://arxiv.org/abs/1903.11207) - Ranjay Krishna et al, **CVPR 2019**. [code]
-* [Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) - Amir Zadeh et al, **CVPR 2019**. [code]
-* [Learning to Compose Dynamic Tree Structures for Visual Contexts](https://arxiv.org/abs/1812.01880) - Kaihua Tang et al, **CVPR 2019**. [code]
-* [Transfer Learning via Unsupervised Task Discovery for Visual Question Answering](https://arxiv.org/abs/1810.02358) - Hyeonwoo Noh et al, **CVPR 2019**. [code]
+* [Information Maximizing Visual Question Generation](https://arxiv.org/abs/1903.11207) - Ranjay Krishna et al, **CVPR 2019**. [[code]](https://github.com/ranjaykrishna/iq)
+* [Social-IQ: A Question Answering Benchmark for Artificial Social Intelligence](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zadeh_Social-IQ_A_Question_Answering_Benchmark_for_Artificial_Social_Intelligence_CVPR_2019_paper.pdf) - Amir Zadeh et al, **CVPR 2019**. [[code]](https://github.com/A2Zadeh/Social-IQ)
+* [Learning to Compose Dynamic Tree Structures for Visual Contexts](https://arxiv.org/abs/1812.01880) - Kaihua Tang et al, **CVPR 2019**. [[code]](https://github.com/KaihuaTang/VCTree-Scene-Graph-Generation)
+* [Transfer Learning via Unsupervised Task Discovery for Visual Question Answering](https://arxiv.org/abs/1810.02358) - Hyeonwoo Noh et al, **CVPR 2019**. [[code]](https://github.com/HyeonwooNoh/vqa_task_discovery)
 * [Video Relationship Reasoning using Gated Spatio-Temporal Energy Graph](https://arxiv.org/abs/1903.10547) - Yao-Hung Hubert Tsai et al, **CVPR 2019**. [[code]](https://github.com/yaohungt/Gated-Spatio-Temporal-Energy-Graph)
 * [Explainable and Explicit Visual Reasoning over Scene Graphs](https://arxiv.org/abs/1812.01855) - Jiaxin Shi et al, **CVPR 2019**. [[code]](https://github.com/shijx12/XNM-Net)
 * [MUREL: Multimodal Relational Reasoning for Visual Question Answering](https://arxiv.org/abs/1902.09487) - Remi Cadene et al, **CVPR 2019**. [[code]](https://github.com/Cadene/murel.bootstrap.pytorch)
