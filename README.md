@@ -25,6 +25,8 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2021](#2021)
+        - [SIGIR 2021](#SIGIR-2021)
+        - [CVPR 2021](#CVPR-2021)
         - [ICLR 2021](#ICLR-2021)
         - [NAACL-HLT 2021](#NAACL-HLT-2021)
         - [AAAI 2021](#AAAI-2021)
@@ -66,6 +68,27 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2021
+
+#### SIGIR 2021
+
+- [LPF: A Language-Prior Feedback Objective Function for De-biased Visual Question Answering](https://arxiv.org/abs/2105.14300) - Zujie Liang et al, **SIGIR 2021**. [[code]](https://github.com/jokieleung/LPF-VQA)
+- [Passage Retrieval for Outside-Knowledge Visual Question Answering](https://arxiv.org/abs/2105.03938) - Chen Qu et al, **SIGIR 2021**. [[code]](https://github.com/prdwb/okvqa-release)
+- [Select, Substitute, Search: A New Benchmark for Knowledge-Augmented Visual Question Answering](https://arxiv.org/abs/2103.05568) - Aman Jain et al, **SIGIR 2021**. [[code]](https://s3vqa.github.io/)
+- [Visual Question Rewriting for Increasing Response Rate](https://arxiv.org/abs/2106.02257) - Jiayi Wei et al, **SIGIR 2021**. 
+
+#### CVPR 2021
+
+- [Separating Skills and Concepts for Novel Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2021/html/Whitehead_Separating_Skills_and_Concepts_for_Novel_Visual_Question_Answering_CVPR_2021_paper.html) - Spencer Whitehead et al, **CVPR 2021**. 
+- [Roses Are Red, Violets Are Blue... but Should VQA Expect Them To?](https://openaccess.thecvf.com/content/CVPR2021/html/Kervadec_Roses_Are_Red_Violets_Are_Blue..._but_Should_VQA_Expect_CVPR_2021_paper.html) - Corentin Kervadec et al, **CVPR 2021** [[code]](https://github.com/gqa-ood/GQA-OOD)
+- [Predicting Human Scanpaths in Visual Question Answering](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Predicting_Human_Scanpaths_in_Visual_Question_Answering_CVPR_2021_paper.html) - Xianyu Chen et al, **CVPR 2021**
+- [Found a Reason for me? Weakly-supervised Grounded Visual Question Answering using Capsules](https://openaccess.thecvf.com/content/CVPR2021/html/Urooj_Found_a_Reason_for_me_Weakly-supervised_Grounded_Visual_Question_Answering_CVPR_2021_paper.html) - Aisha Urooj et al, **CVPR 2021**
+- [TAP: Text-Aware Pre-Training for Text-VQA and Text-Caption](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_TAP_Text-Aware_Pre-Training_for_Text-VQA_and_Text-Caption_CVPR_2021_paper.html) -  Zhengyuan Yang et al, **CVPR 2021**
+- [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://openaccess.thecvf.com/content/CVPR2021/html/Niu_Counterfactual_VQA_A_Cause-Effect_Look_at_Language_Bias_CVPR_2021_paper.html) - Yulei Niu et al, **CVPR 2021** [[code]](https://github.com/yuleiniu/cfvqa)
+- [KRISP: Integrating Implicit and Symbolic Knowledge for Open-Domain Knowledge-Based VQA](https://openaccess.thecvf.com/content/CVPR2021/html/Marino_KRISP_Integrating_Implicit_and_Symbolic_Knowledge_for_Open-Domain_Knowledge-Based_VQA_CVPR_2021_paper.html) - Kenneth Marino et al, **CVPR 2021**
+- [Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing](https://openaccess.thecvf.com/content/CVPR2021/html/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.html) - Yuanyuan Yuan et al, **CVPR 2021**
+- [How Transferable Are Reasoning Patterns in VQA?](https://openaccess.thecvf.com/content/CVPR2021/html/Kervadec_How_Transferable_Are_Reasoning_Patterns_in_VQA_CVPR_2021_paper.html) - Corentin Kervadec et al, **CVPR 2021**
+- [Domain-Robust VQA With Diverse Datasets and Methods but No Target Labels](https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_Domain-Robust_VQA_With_Diverse_Datasets_and_Methods_but_No_Target_CVPR_2021_paper.html) - Mingda Zhang et al, **CVPR 2021**
+- [Learning Better Visual Dialog Agents With Pretrained Visual-Linguistic Representation](https://openaccess.thecvf.com/content/CVPR2021/html/Tu_Learning_Better_Visual_Dialog_Agents_With_Pretrained_Visual-Linguistic_Representation_CVPR_2021_paper.html) - Tao Tu et al, **CVPR 2021**
 
 #### ICLR 2021
 
@@ -314,6 +337,10 @@ I will collect the leaderboard's implementations in the future.Stay tuned...
 ### [TextVQA]( https://textvqa.org/ )
 
 * [TextVQA Challenge 2019 Leaderboard in EvalAI]( https://evalai.cloudcv.org/web/challenges/challenge-page/244/overview )
+
+### VQA-CP
+
+- [The VQA-CP leaderboard](https://github.com/cdancette/vqa-cp-leaderboard)
 
 ## Licenses
 
