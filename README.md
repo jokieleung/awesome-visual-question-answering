@@ -114,8 +114,8 @@ Markdown format:
 
 #### EMNLP 2020
 
-- [MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.63/) - Tejas Gokhale et al, **EMNLP 2020**. 
-- [Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.265/) - Zujie Liang et al, **EMNLP 2020**. 
+- [MUTANT: A Training Paradigm for Out-of-Distribution Generalization in Visual Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.63/) - Tejas Gokhale et al, **EMNLP 2020**. [[code]](https://github.com/tejas-gokhale/vqa_mutant)
+- [Learning to Contrast the Counterfactual Samples for Robust Visual Question Answering](https://www.aclweb.org/anthology/2020.emnlp-main.265/) - Zujie Liang et al, **EMNLP 2020**. [[code]](https://github.com/jokieleung/CL-VQA)
 - [VD-BERT: A Unified Vision and Dialog Transformer with BERT](https://www.aclweb.org/anthology/2020.emnlp-main.269/) - Yue Wang et al, **EMNLP 2020**. 
 
 #### NeurIPS 2020
