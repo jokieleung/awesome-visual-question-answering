@@ -25,6 +25,7 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2021](#2021)
+        - [ACL 2021](#ACL-2021)
         - [SIGIR 2021](#SIGIR-2021)
         - [CVPR 2021](#CVPR-2021)
         - [ICLR 2021](#ICLR-2021)
@@ -68,6 +69,14 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2021
+
+#### ACL 2021
+
+- [Check It Again:Progressive Visual Question Answering via Visual Entailment](https://aclanthology.org/2021.acl-long.317.pdf) - Qingyi Si et al, **ACL 2021**. [[code]](https://github.com/PhoebusSi/SAR)
+- [Mind Your Outliers! Investigating the Negative Impact of Outliers on Active Learning for Visual Question Answering](https://aclanthology.org/2021.acl-long.564.pdf) - Siddharth Karamcheti et al, **ACL 2021**. [[code]](https://github.com/siddk/vqa-outliers)
+- [In Factuality: Efficient Integration of Relevant Facts for Visual Question Answering](https://aclanthology.org/2021.acl-short.60.pdf) - Peter Vickers et al, **ACL 2021**. 
+- [Towards Visual Question Answering on Pathology Images](https://aclanthology.org/2021.acl-short.90.pdf) - Xuehai He et al, **ACL 2021**. [[code]](https://github.com/UCSD-AI4H/PathVQA)
+- [Are VQA Systems RAD? Measuring Robustness to Augmented Data with Focused Interventions](https://aclanthology.org/2021.acl-short.10.pdf) - Daniel Rosenberg et al, **ACL 2021**. [[code]](https://danrosenberg.github.io/rad-measure/)
 
 #### SIGIR 2021
 
