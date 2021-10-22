@@ -25,6 +25,7 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2021](#2021)
+        - [ICCV 2021](#ICCV-2021)
         - [ACL 2021](#ACL-2021)
         - [SIGIR 2021](#SIGIR-2021)
         - [CVPR 2021](#CVPR-2021)
@@ -69,6 +70,18 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2021
+
+#### ICCV 2021
+
+- [Unshuffling Data for Improved Generalization in Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2021/html/Teney_Unshuffling_Data_for_Improved_Generalization_in_Visual_Question_Answering_ICCV_2021_paper.html) - Damien Teney et al, **ICCV 2021**. 
+- [TRAR: Routing the Attention Spans in Transformer for Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2021/html/Zhou_TRAR_Routing_the_Attention_Spans_in_Transformer_for_Visual_Question_ICCV_2021_paper.html) - Yiyi Zhou et al, **ICCV 2021**. 
+- [Greedy Gradient Ensemble for Robust Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2021/html/Han_Greedy_Gradient_Ensemble_for_Robust_Visual_Question_Answering_ICCV_2021_paper.html) - Xinzhe Han et al, **ICCV 2021**. 
+- [Pano-AVQA: Grounded Audio-Visual Question Answering on 360deg Videos](https://openaccess.thecvf.com/content/ICCV2021/html/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.html) - Heeseung Yun et al, **ICCV 2021**. 
+- [Weakly Supervised Relative Spatial Reasoning for Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2021/html/Banerjee_Weakly_Supervised_Relative_Spatial_Reasoning_for_Visual_Question_Answering_ICCV_2021_paper.html) - Pratyay Banerjee et al, **ICCV 2021**. 
+- [Linguistically Routing Capsule Network for Out-of-Distribution Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2021/html/Cao_Linguistically_Routing_Capsule_Network_for_Out-of-Distribution_Visual_Question_Answering_ICCV_2021_paper.html) - Qingxing Cao et al, **ICCV 2021**. 
+- [Beyond Question-Based Biases: Assessing Multimodal Shortcut Learning in Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2021/html/Dancette_Beyond_Question-Based_Biases_Assessing_Multimodal_Shortcut_Learning_in_Visual_Question_ICCV_2021_paper.html) - Corentin Dancette et al, **ICCV 2021**. 
+- [Auto-Parsing Network for Image Captioning and Visual Question Answering](https://openaccess.thecvf.com/content/ICCV2021/html/Yang_Auto-Parsing_Network_for_Image_Captioning_and_Visual_Question_Answering_ICCV_2021_paper.html) - Xu Yang et al, **ICCV 2021**. 
+- [Unified Questioner Transformer for Descriptive Question Generation in Goal-Oriented Visual Dialogue](https://openaccess.thecvf.com/content/ICCV2021/html/Matsumori_Unified_Questioner_Transformer_for_Descriptive_Question_Generation_in_Goal-Oriented_Visual_ICCV_2021_paper.html) - Shoya Matsumori et al, **ICCV 2021**. 
 
 #### ACL 2021
 
