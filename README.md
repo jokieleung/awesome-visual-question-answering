@@ -25,6 +25,7 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2021](#2021)
+        - [NeurIPS 2021](#NeurIPS-2021)
         - [EMNLP 2021](#EMNLP-2021)
         - [ICCV 2021](#ICCV-2021)
         - [ACL 2021](#ACL-2021)
@@ -71,6 +72,12 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2021
+
+#### NeurIPS 2021
+
+- [Human-Adversarial Visual Question Answering](https://arxiv.org/abs/2106.02280) - Sasha Sheng et al, **NeurIPS 2021**. [[code]](https://adversarialvqa.org/)
+- [Debiased Visual Question Answering from Feature and Sample Perspectives](https://openreview.net/pdf?id=Z4ry59PVMq8) - Zhiquan Wen et al, **NeurIPS 2021**. [[code]](https://github.com/Zhiquan-Wen/D-VQA)
+- [Learning to Generate Visual Questions with Noisy Supervision](https://openreview.net/pdf?id=LMotP3zsq_d) - Kai Shen et al, **NeurIPS 2021**. [[code]](https://github.com/AlanSwift/DH-GAN)
 
 #### EMNLP 2021
 
