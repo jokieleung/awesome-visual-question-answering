@@ -25,6 +25,7 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2021](#2021)
+        - [EMNLP 2021](#EMNLP-2021)
         - [ICCV 2021](#ICCV-2021)
         - [ACL 2021](#ACL-2021)
         - [SIGIR 2021](#SIGIR-2021)
@@ -70,6 +71,14 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2021
+
+#### EMNLP 2021
+
+- [Discovering the Unknown Knowns: Turning Implicit Knowledge in the Dataset into Explicit Training Examples for Visual Question Answering](https://aclanthology.org/2021.emnlp-main.512/) - Jihyung Kil et al, **EMNLP 2021**.
+- [Beyond Accuracy: A Consolidated Tool for Visual Question Answering Benchmarking](https://aclanthology.org/2021.emnlp-demo.14/) - Jihyung Kil et al, **EMNLP 2021 (demo)**. [[code]](https://github.com/patilli/vqa_benchmarking)
+- [Diversity and Consistency: Exploring Visual Question-Answer Pair Generation](https://aclanthology.org/2021.findings-emnlp.91/) - Sen Yang et al, **EMNLP 2021 (Findings)**.
+- [Towards Developing a Multilingual and Code-Mixed Visual Question Answering System by Knowledge Distillation](https://aclanthology.org/2021.findings-emnlp.151/) - Humair Raj Khan et al, **EMNLP 2021 (Findings)**.
+- [MIRTT: Learning Multimodal Interaction Representations from Trilinear Transformers for Visual Question Answering](https://aclanthology.org/2021.findings-emnlp.196/) - Junjie Wang et al, **EMNLP 2021 (Findings)**. [[code]](https://github.com/iigroup/mirtt)
 
 #### ICCV 2021
 
