@@ -24,6 +24,10 @@ Markdown format:
   * [Table of Contents](#table-of-contents)
   * [Papers](#papers)
      * [Survey](#survey)
+     * [2022](#2022)
+        - [ACL 2022](#ACL-2022)
+        - [CVPR 2022](#CVPR-2022)
+        - [AAAI 2022](#AAAI-2022)
      * [2021](#2021)
         - [NeurIPS 2021](#NeurIPS-2021)
         - [EMNLP 2021](#EMNLP-2021)
@@ -70,6 +74,29 @@ Markdown format:
 ### Survey
 * [Visual question answering: Datasets, algorithms, and future challenges](https://arxiv.org/abs/1610.01465) - Kushal Kafle et al, **CVIU 2017**.
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
+
+### 2022
+
+#### ACL 2022
+
+- Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering - Yu-Jung Heo et al, **ACL 2022**.
+- DuReader_vis: A Chinese Dataset for Open-domain Document Visual Question Answering - Le Qi et al, **ACL 2022 (Findings)**.
+- [xGQA: Cross-Lingual Visual Question Answering](https://arxiv.org/abs/2109.06082) - Jonas Pfeiffer et al, **ACL 2022 (Findings)**. [[data]](https://github.com/Adapter-Hub/xGQA)
+
+
+#### CVPR 2022
+
+- [SimVQA: Exploring Simulated Environments for Visual Question Answering](https://arxiv.org/abs/2203.17219) - Paola Cascante-Bonilla et al, **CVPR 2022**. [[code]](https://www.cs.rice.edu/~pc51/simvqa/)
+- [A Thousand Words Are Worth More Than a Picture: Natural Language-Centric Outside-Knowledge Visual Question Answering](https://arxiv.org/abs/2201.05299) - Feng Gao et al, **CVPR 2022**. 
+- [SwapMix: Diagnosing and Regularizing the Over-reliance on Visual Context in Visual Question Answering](https://arxiv.org/abs/2204.02285) - Vipul Gupta et al, **CVPR 2022**. [[code]](https://github.com/vipulgupta1011/swapmix)
+- [Dual-Key Multimodal Backdoors for Visual Question Answering](https://arxiv.org/abs/2112.07668) - Matthew Walmer et al, **CVPR 2022**. [[code]](https://github.com/SRI-CSL/TrinityMultimodalTrojAI)
+- [MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2203.09138) - Yang Ding et al, **CVPR 2022**. [[code]](https://github.com/AndersonStra/MuKEA)
+- [Grounding Answers for Visual Questions Asked by Visually Impaired People](https://arxiv.org/abs/2202.01993) - Choyan Chen et al, **CVPR 2022**. [[page]](https://vizwiz.org/tasks-and-datasets/answer-grounding-for-vqa/)
+- [Maintaining Reasoning Consistency in Compositional Visual Question Answering](https://jingchenchen.github.io/files/papers/2022/CVPR_DLR.pdf) - Chenchen Jing et al, **CVPR 2022**. [[code]](https://github.com/jingchenchen/ReasoningConsistency-VQA)
+
+#### AAAI 2022
+
+- [Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2203.02985) - Mingxiao Li et al, **AAAI 2022**. [[code]](https://github.com/Mingxiao-Li/DMMGR)
 
 ### 2021
 
