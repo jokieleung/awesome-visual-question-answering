@@ -28,6 +28,7 @@ Markdown format:
         - [ACL 2022](#ACL-2022)
         - [CVPR 2022](#CVPR-2022)
         - [AAAI 2022](#AAAI-2022)
+        - [IJCAI 2022](#IJCAI-2022)
      * [2021](#2021)
         - [NeurIPS 2021](#NeurIPS-2021)
         - [EMNLP 2021](#EMNLP-2021)
@@ -79,9 +80,12 @@ Markdown format:
 
 #### ACL 2022
 
-- Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering - Yu-Jung Heo et al, **ACL 2022**.
-- DuReader_vis: A Chinese Dataset for Open-domain Document Visual Question Answering - Le Qi et al, **ACL 2022 (Findings)**.
+- [CLIP Models are Few-Shot Learners: Empirical Studies on VQA and Visual Entailment](https://aclanthology.org/2022.acl-long.421.pdf) - Haoyu Song et al, **ACL 2022**.
+- [CARETS: A Consistency And Robustness Evaluative Test Suite for VQA](https://aclanthology.org/2022.acl-long.443.pdf) - Carlos Jimenez et al, **ACL 2022**.
+- [Hypergraph Transformer: Weakly-Supervised Multi-hop Reasoning for Knowledge-based Visual Question Answering](https://aclanthology.org/2022.acl-long.29.pdf) - Yu-Jung Heo et al, **ACL 2022**.
+- [DuReader_vis: A Chinese Dataset for Open-domain Document Visual Question Answering](https://aclanthology.org/2022.findings-acl.105.pdf) - Le Qi et al, **ACL 2022 (Findings)**.
 - [xGQA: Cross-Lingual Visual Question Answering](https://arxiv.org/abs/2109.06082) - Jonas Pfeiffer et al, **ACL 2022 (Findings)**. [[data]](https://github.com/Adapter-Hub/xGQA)
+- [Co-VQA : Answering by Interactive Sub Question Sequence](https://aclanthology.org/2022.findings-acl.188.pdf) - Ruonan Wang et al, **ACL 2022 (Findings)**. 
 
 
 #### CVPR 2022
@@ -97,6 +101,11 @@ Markdown format:
 #### AAAI 2022
 
 - [Dynamic Key-value Memory Enhanced Multi-step Graph Reasoning for Knowledge-based Visual Question Answering](https://arxiv.org/abs/2203.02985) - Mingxiao Li et al, **AAAI 2022**. [[code]](https://github.com/Mingxiao-Li/DMMGR)
+
+#### IJCAI 2022
+
+- [Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering](https://wangchongyang.ai/assets/pdf/Multi_Level_Hierarchical_Network_with_Multi_Scale_Sampling_for_Video_Question_Answering___IJCAI22.pdf) - Min Peng et al, **IJCAI 2022**. [[code]](https://github.com/Mvrjustid/MHN-IJCAI22)
+
 
 ### 2021
 
