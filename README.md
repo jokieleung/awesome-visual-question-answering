@@ -25,6 +25,7 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2022](#2022)
+        - [NeurIPS 2022](#NeurIPS-2022)
         - [ACL 2022](#ACL-2022)
         - [CVPR 2022](#CVPR-2022)
         - [AAAI 2022](#AAAI-2022)
@@ -77,6 +78,11 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2022
+
+#### NeurIPS 2022
+
+- [REVIVE: Regional Visual Representation Matters in Knowledge-Based Visual Question Answering](https://arxiv.org/abs/2206.01201) - Yuanze Lin et al, **NeurIPS 2022**.
+- [Towards Video Text Visual Question Answering: Benchmark and Baseline](https://openreview.net/forum?id=yPZ7w29qSNK&referrer=%5Bthe%20profile%20of%20Shuigeng%20Zhou%5D(%2Fprofile%3Fid%3D~Shuigeng_Zhou1)) - Minyi Zhao et al, **NeurIPS 2022**.
 
 #### ACL 2022
 
