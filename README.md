@@ -31,6 +31,7 @@ Markdown format:
         - [ICLR 2022](#ICLR-2022)
         - [AAAI 2022](#AAAI-2022)
         - [IJCAI 2022](#IJCAI-2022)
+        * [OTHER](#other)
      * [2021](#2021)
         - [NeurIPS 2021](#NeurIPS-2021)
         - [EMNLP 2021](#EMNLP-2021)
@@ -118,6 +119,9 @@ Markdown format:
 
 - [Multilevel Hierarchical Network with Multiscale Sampling for Video Question Answering](https://wangchongyang.ai/assets/pdf/Multi_Level_Hierarchical_Network_with_Multi_Scale_Sampling_for_Video_Question_Answering___IJCAI22.pdf) - Min Peng et al, **IJCAI 2022**. [[code]](https://github.com/Mvrjustid/MHN-IJCAI22)
 
+#### OTHER ####
+
+* [TAG: Boosting Text-VQA via Text-aware Visual Question-answer Generation](https://arxiv.org/abs/2208.01813) - Jun Wang et al, **arXiv 2022**. [[code]](https://github.com/HenryJunW/TAG)
 
 ### 2021
 
