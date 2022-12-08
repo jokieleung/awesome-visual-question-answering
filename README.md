@@ -25,6 +25,7 @@ Markdown format:
   * [Papers](#papers)
      * [Survey](#survey)
      * [2022](#2022)
+        - [EMNLP 2022](#EMNLP-2022)
         - [NeurIPS 2022](#NeurIPS-2022)
         - [ACL 2022](#ACL-2022)
         - [CVPR 2022](#CVPR-2022)
@@ -80,6 +81,16 @@ Markdown format:
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 
 ### 2022
+
+#### EMNLP 2022
+
+- [Entity-Focused Dense Passage Retrieval for Outside-Knowledge Visual Question Answering](https://arxiv.org/abs/2210.10176) - Jialin Wu et al, **EMNLP 2022**.
+- [Retrieval Augmented Visual Question Answering with Outside Knowledge](https://arxiv.org/abs/2210.03809) - Weizhe Lin et al, **EMNLP 2022**.
+- [CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering](https://arxiv.org/abs/2211.03779) - Maitreya Patel et al, **EMNLP 2022**. [[proj]](https://maitreyapatel.com/CRIPP-VQA/) [[code]](https://github.com/Maitreyapatel/CRIPP-VQA/)
+- [Towards Robust Visual Question Answering: Making the Most of Biased Samples via Contrastive Learning](https://arxiv.org/abs/2210.04563) - Qingyi Si et al, **EMNLP 2022 (Findings)**. [[code]](https://github.com/PhoebusSi/MMBS)
+- [Plug-and-Play VQA: Zero-shot VQA by Conjoining Large Pretrained Models with Zero Training](https://arxiv.org/abs/2210.08773) - Anthony Meng Huat Tiong et al, **EMNLP 2022 (Findings)**.
+- [Language Prior Is Not the Only Shortcut: A Benchmark for Shortcut Learning in VQA](https://arxiv.org/abs/2210.04692) - Qingyi Si  et al, **EMNLP 2022 (Findings)**. [[code]](https://github.com/PhoebusSi/VQA-VS)
+
 
 #### NeurIPS 2022
 
