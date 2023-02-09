@@ -79,11 +79,12 @@ Markdown format:
 ### Survey
 * [Visual question answering: Datasets, algorithms, and future challenges](https://arxiv.org/abs/1610.01465) - Kushal Kafle et al, **CVIU 2017**.
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
+* [Video Question Answering: Datasets, Algorithms and Challenges](https://aclanthology.org/2022.emnlp-main.432.pdf) - yaoyao Zhong et al, **EMNLP 2022**.
 
 ### 2022
 
 #### EMNLP 2022
-
+- [Video Question Answering: Datasets, Algorithms and Challenges](https://aclanthology.org/2022.emnlp-main.432.pdf) - yaoyao Zhong et al, **EMNLP 2022**.
 - [Entity-Focused Dense Passage Retrieval for Outside-Knowledge Visual Question Answering](https://arxiv.org/abs/2210.10176) - Jialin Wu et al, **EMNLP 2022**.
 - [Retrieval Augmented Visual Question Answering with Outside Knowledge](https://arxiv.org/abs/2210.03809) - Weizhe Lin et al, **EMNLP 2022**.
 - [CRIPP-VQA: Counterfactual Reasoning about Implicit Physical Properties via Video Question Answering](https://arxiv.org/abs/2211.03779) - Maitreya Patel et al, **EMNLP 2022**. [[proj]](https://maitreyapatel.com/CRIPP-VQA/) [[code]](https://github.com/Maitreyapatel/CRIPP-VQA/)
