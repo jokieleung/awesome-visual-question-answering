@@ -24,6 +24,8 @@ Markdown format:
   * [Table of Contents](#table-of-contents)
   * [Papers](#papers)
      * [Survey](#survey)
+     * [2023](#2023)
+        - [CVPR 2023](#CVPR-2023)
      * [2022](#2022)
         - [EMNLP 2022](#EMNLP-2022)
         - [NeurIPS 2022](#NeurIPS-2022)
@@ -80,6 +82,11 @@ Markdown format:
 * [Visual question answering: Datasets, algorithms, and future challenges](https://arxiv.org/abs/1610.01465) - Kushal Kafle et al, **CVIU 2017**.
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 * [Video Question Answering: Datasets, Algorithms and Challenges](https://aclanthology.org/2022.emnlp-main.432.pdf) - yaoyao Zhong et al, **EMNLP 2022**.
+
+### 2023
+
+#### EMNLP 2023
+- [EXCALIBUR: Encouraging and Evaluating Embodied Exploration](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_EXCALIBUR_Encouraging_and_Evaluating_Embodied_Exploration_CVPR_2023_paper.pdf) - Hao Zhu et al, **CVPR 2023**.
 
 ### 2022
 
