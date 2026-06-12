@@ -24,6 +24,8 @@ Markdown format:
   * [Table of Contents](#table-of-contents)
   * [Papers](#papers)
      * [Survey](#survey)
+     * [2026](#2026)
+        - [ACL 2026](#ACL-2026)
      * [2022](#2022)
         - [EMNLP 2022](#EMNLP-2022)
         - [NeurIPS 2022](#NeurIPS-2022)
@@ -80,6 +82,12 @@ Markdown format:
 * [Visual question answering: Datasets, algorithms, and future challenges](https://arxiv.org/abs/1610.01465) - Kushal Kafle et al, **CVIU 2017**.
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 * [Video Question Answering: Datasets, Algorithms and Challenges](https://aclanthology.org/2022.emnlp-main.432.pdf) - yaoyao Zhong et al, **EMNLP 2022**.
+
+### 2026
+
+#### ACL 2026
+
+- [GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents](https://arxiv.org/abs/2603.24329) - Yunzhe Wang et al, **ACL 2026**. [[proj]](https://hats-ict.github.io/gameplayqa/) [[code]](https://github.com/HATS-ICT/GameplayQA) [[data]](https://huggingface.co/datasets/wangyz1999/GameplayQA)
 
 ### 2022
 
