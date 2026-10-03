@@ -23,6 +23,8 @@ Markdown format:
   * [Change Log](#change-log)
   * [Table of Contents](#table-of-contents)
   * [Papers](#papers)
+     * [2026](#2026)
+     * [2024](#2024)
      * [Survey](#survey)
      * [2022](#2022)
         - [EMNLP 2022](#EMNLP-2022)
@@ -76,6 +78,14 @@ Markdown format:
   * [Reference and Acknowledgement](#reference-and-acknowledgement)
 
 ## Papers
+### 2026
+
+- [When Does an Image Determine the Answer? Benchmarking Visual Answerability across Charts and Scenes](https://arxiv.org/abs/2609.34480) - Sungguk Cha et al, **arXiv 2026**.
+
+### 2024
+
+- [Visual Question Answering Instruction: Unlocking Multimodal Large Language Model To Domain-Specific Visual Multitasks](https://arxiv.org/abs/2402.08360) - Jusung Lee et al, **arXiv 2024**.
+
 ### Survey
 * [Visual question answering: Datasets, algorithms, and future challenges](https://arxiv.org/abs/1610.01465) - Kushal Kafle et al, **CVIU 2017**.
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
