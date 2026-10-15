@@ -24,6 +24,7 @@ Markdown format:
   * [Table of Contents](#table-of-contents)
   * [Papers](#papers)
      * [Survey](#survey)
+     * [2026](#2026)
      * [2022](#2022)
         - [EMNLP 2022](#EMNLP-2022)
         - [NeurIPS 2022](#NeurIPS-2022)
@@ -80,6 +81,10 @@ Markdown format:
 * [Visual question answering: Datasets, algorithms, and future challenges](https://arxiv.org/abs/1610.01465) - Kushal Kafle et al, **CVIU 2017**.
 * [Visual question answering: A survey of methods and datasets](https://arxiv.org/abs/1607.05910) - Qi Wu et al, **CVIU 2017**.
 * [Video Question Answering: Datasets, Algorithms and Challenges](https://aclanthology.org/2022.emnlp-main.432.pdf) - yaoyao Zhong et al, **EMNLP 2022**.
+
+### 2026
+
+- [VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding](https://arxiv.org/abs/2607.14935) - Xinhao Li et al., **arXiv 2026**. [[code]](https://github.com/MCG-NJU/VideoChat3)
 
 ### 2022
 
